@@ -1,0 +1,4 @@
+Caso práctico IRAC:
+Ubuntu y chrome sin webcam: google-chrome --use-fake-device-for-media-stream
+Ubuntu y firefox sin webcam: http://blog.andyet.com/2014/09/29/testing-webrtc-applications "var constraints = {audio: false, video: true, fake: true};"
+
